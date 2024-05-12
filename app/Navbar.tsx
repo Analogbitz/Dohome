@@ -16,7 +16,7 @@ function Navbar() {
             <div className="flex items-center">
               <div className="flex-shrink-0">
                 <a href="/" className="text-white">
-                 <p>Logo</p>
+                 <p>DOHOME</p>
                 </a>
               </div>
             </div>
